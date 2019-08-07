@@ -1,17 +1,3 @@
-//   Story Show Gallery (SSG) ver: 2.4.0
-//   Copyright (C) 2018 Roman Flössler - flor@flor.cz
-//
-//   Try Story Show Gallery at - https://ssg.flor.cz/
-//   SSG on Github: https://github.com/Roman-Flossler/Simple-Scroll-Gallery.git
-//
-//   This Source Code Form is subject to the terms of the Mozilla Public
-//   License, v. 2.0. If a copy of the MPL was not distributed with this
-//   file, You can obtain one at http://mozilla.org/MPL/2.0/.
-//
-//   There is one exception from license:
-//   Distributing Story Show Gallery within a Wordpress plugin or theme 
-//   is only allowed for the author of Story Show Gallery.
-
 
 // Main object - namespace - the only global variable
 var SSG = {};
